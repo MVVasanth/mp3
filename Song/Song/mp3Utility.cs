@@ -15,7 +15,7 @@ namespace Song
         {
             //loop through all folders.
             var folderNames = Directory.GetFiles(filePath);
-            //var currentDirectory = 
+            //var currentDirectory = good
         }
 
         public void Move(string sourcePath, string destPath)
