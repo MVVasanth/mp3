@@ -1,0 +1,5 @@
+C:\mine\utility\song\Song\Song\bin\Debug\Song.exe.config
+C:\mine\utility\song\Song\Song\bin\Debug\Song.exe
+C:\mine\utility\song\Song\Song\bin\Debug\Song.pdb
+C:\mine\utility\song\Song\Song\obj\Debug\Song.exe
+C:\mine\utility\song\Song\Song\obj\Debug\Song.pdb
